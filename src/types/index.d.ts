@@ -1,0 +1,1 @@
+export type TIconType = React.ReactElement | null;
